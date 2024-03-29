@@ -8,3 +8,5 @@ Power,25.0,Result: Error: power operation requires exactly two operands.
 Power,"1.0, 5.0",Result: 1.0
 MeanOperation,"10.0, 50.0, 25.0",Result: 28.333333333333332
 MedianOperation,"1.0, 5.0, 8.0, 4.0, 5.0",Result: 5.0
+Addition,"(5.0, 8.0)",13.0
+Division,"(8.0, 4.0)",2.0
