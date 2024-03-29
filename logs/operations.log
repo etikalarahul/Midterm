@@ -3,3 +3,26 @@
 2024-03-29 01:48:58,199 - App.utils.plugin_loader - INFO - Loaded plugin: Square
 2024-03-29 01:48:58,199 - App.utils.plugin_loader - INFO - Loaded plugin: Power
 2024-03-29 01:49:14,522 - App - INFO - Calculator app terminated.
+2024-03-29 02:09:56,669 - root - INFO - Logging setup complete.
+2024-03-29 02:09:56,671 - App.utils.plugin_loader - INFO - Loaded plugin: Log
+2024-03-29 02:09:56,671 - App.utils.plugin_loader - INFO - Loaded plugin: Square
+2024-03-29 02:09:56,671 - App.utils.plugin_loader - INFO - Loaded plugin: Power
+2024-03-29 02:10:08,391 - CalculatorApp - INFO - Performed execute: (3.0, 5.0) = 8.0
+2024-03-29 02:10:08,391 - CalculatorApp - INFO - Performed execute: (3.0, 5.0) = 8.0
+2024-03-29 02:10:15,958 - CalculatorApp - INFO - Performed execute: (9.0, 5.0) = 4.0
+2024-03-29 02:10:15,958 - CalculatorApp - INFO - Performed execute: (9.0, 5.0) = 4.0
+2024-03-29 02:10:25,201 - CalculatorApp - INFO - Performed execute: (8.0, 4.0) = 2.0
+2024-03-29 02:10:25,201 - CalculatorApp - INFO - Performed execute: (8.0, 4.0) = 2.0
+2024-03-29 02:10:30,171 - CalculatorApp - INFO - Performed execute: (10.0,) = 2.302585092994046
+2024-03-29 02:10:30,171 - CalculatorApp - INFO - Performed execute: (10.0,) = 2.302585092994046
+2024-03-29 02:10:38,658 - CalculatorApp - INFO - Performed execute: (25.0,) = 625.0
+2024-03-29 02:10:38,658 - CalculatorApp - INFO - Performed execute: (25.0,) = 625.0
+2024-03-29 02:10:47,231 - CalculatorApp - INFO - Performed execute: (25.0,) = Error: power operation requires exactly two operands.
+2024-03-29 02:10:47,231 - CalculatorApp - INFO - Performed execute: (25.0,) = Error: power operation requires exactly two operands.
+2024-03-29 02:10:55,767 - CalculatorApp - INFO - Performed execute: (1.0, 5.0) = 1.0
+2024-03-29 02:10:55,767 - CalculatorApp - INFO - Performed execute: (1.0, 5.0) = 1.0
+2024-03-29 02:11:31,514 - CalculatorApp - INFO - Performed execute: (10.0, 50.0, 25.0) = 28.333333333333332
+2024-03-29 02:11:31,514 - CalculatorApp - INFO - Performed execute: (10.0, 50.0, 25.0) = 28.333333333333332
+2024-03-29 02:11:40,058 - CalculatorApp - INFO - Performed execute: (1.0, 5.0, 8.0, 4.0, 5.0) = 5.0
+2024-03-29 02:11:40,058 - CalculatorApp - INFO - Performed execute: (1.0, 5.0, 8.0, 4.0, 5.0) = 5.0
+2024-03-29 02:11:50,011 - App - INFO - Calculator app terminated.
