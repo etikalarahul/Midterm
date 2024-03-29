@@ -26,3 +26,46 @@
 2024-03-29 02:11:40,058 - CalculatorApp - INFO - Performed execute: (1.0, 5.0, 8.0, 4.0, 5.0) = 5.0
 2024-03-29 02:11:40,058 - CalculatorApp - INFO - Performed execute: (1.0, 5.0, 8.0, 4.0, 5.0) = 5.0
 2024-03-29 02:11:50,011 - App - INFO - Calculator app terminated.
+2024-03-29 02:30:28,561 - root - INFO - Logging setup complete.
+2024-03-29 02:30:28,562 - App.utils.plugin_loader - INFO - Loaded plugin: Log
+2024-03-29 02:30:28,562 - App.utils.plugin_loader - INFO - Loaded plugin: Square
+2024-03-29 02:30:28,563 - App.utils.plugin_loader - INFO - Loaded plugin: Power
+2024-03-29 02:30:36,114 - App - INFO - Calculator app terminated.
+2024-03-29 02:30:39,673 - CalculatorApp - INFO - Performed execute: (1, 2) = 3
+2024-03-29 02:30:39,673 - CalculatorApp - INFO - Performed execute: (-1, -2) = -3
+2024-03-29 02:30:39,673 - CalculatorApp - INFO - Performed execute: (0, 0) = 0
+2024-03-29 02:30:39,674 - CalculatorApp - INFO - Performed execute: (5, 3) = 2
+2024-03-29 02:30:39,674 - CalculatorApp - INFO - Performed execute: (-1, -2) = 1
+2024-03-29 02:30:39,674 - CalculatorApp - INFO - Performed execute: (0, 0) = 0
+2024-03-29 02:30:39,675 - CalculatorApp - INFO - Performed execute: (2, 3) = 6
+2024-03-29 02:30:39,675 - CalculatorApp - INFO - Performed execute: (-1, -2) = 2
+2024-03-29 02:30:39,675 - CalculatorApp - INFO - Performed execute: (0, 10) = 0
+2024-03-29 02:30:39,676 - CalculatorApp - INFO - Performed execute: (6, 3) = 2.0
+2024-03-29 02:30:39,677 - CalculatorApp - INFO - Performed execute: (-4, -2) = 2.0
+2024-03-29 02:30:39,678 - CalculatorApp - ERROR - Attempted to divide by zero: Cannot divide by zero.
+2024-03-29 02:30:39,679 - CalculatorApp - ERROR - Value error in operation: All operands must be numeric.
+2024-03-29 02:30:39,680 - CalculatorApp - INFO - Performed execute: (1, 2, 3, 4, 5) = 3
+2024-03-29 02:30:39,680 - CalculatorApp - INFO - Performed execute: (1, 1, 1, 1, 1) = 1
+2024-03-29 02:30:39,681 - CalculatorApp - INFO - Performed execute: (1, 2, 3, 4, 5) = 3
+2024-03-29 02:30:39,681 - CalculatorApp - INFO - Performed execute: (1, 2, 3, 4, 5, 6) = 3.5
+2024-03-29 02:30:39,682 - CalculatorApp - INFO - Performed execute: (1, 2, 3) = 1.0
+2024-03-29 02:30:39,682 - CalculatorApp - ERROR - Value error in operation: Standard deviation requires at least two operands.
+2024-03-29 02:30:39,714 - CalculatorApp - ERROR - Value error in operation: Standard deviation requires at least two operands.
+2024-03-29 02:31:50,149 - root - INFO - Logging setup complete.
+2024-03-29 02:31:50,149 - App.utils.plugin_loader - INFO - Loaded plugin: Log
+2024-03-29 02:31:50,150 - App.utils.plugin_loader - INFO - Loaded plugin: Square
+2024-03-29 02:31:50,150 - App.utils.plugin_loader - INFO - Loaded plugin: Power
+2024-03-29 02:32:00,219 - CalculatorApp - INFO - Performed execute: (1.0, 5.0, 8.0, 4.0) = 4.5
+2024-03-29 02:32:00,219 - CalculatorApp - INFO - Performed execute: (1.0, 5.0, 8.0, 4.0) = 4.5
+2024-03-29 02:32:05,822 - CalculatorApp - ERROR - Value error in operation: no median for empty data
+2024-03-29 02:32:05,822 - CalculatorApp - ERROR - Value error in operation: no median for empty data
+2024-03-29 02:32:23,786 - CalculatorApp - INFO - Performed execute: (4.0, 54.0, 5.0, 5.0, 8.0) = 5.0
+2024-03-29 02:32:23,786 - CalculatorApp - INFO - Performed execute: (4.0, 54.0, 5.0, 5.0, 8.0) = 5.0
+2024-03-29 02:32:30,650 - App - INFO - Calculator app terminated.
+2024-03-29 02:35:45,729 - root - INFO - Logging setup complete.
+2024-03-29 02:35:45,729 - App.utils.plugin_loader - INFO - Loaded plugin: Log
+2024-03-29 02:35:45,729 - App.utils.plugin_loader - INFO - Loaded plugin: Square
+2024-03-29 02:35:45,729 - App.utils.plugin_loader - INFO - Loaded plugin: Power
+2024-03-29 02:35:49,705 - CalculatorApp - INFO - Performed execute: (4.0, 5.0) = 9.0
+2024-03-29 02:35:49,705 - CalculatorApp - INFO - Performed execute: (4.0, 5.0) = 9.0
+2024-03-29 02:36:26,585 - App - INFO - Calculator app terminated.
