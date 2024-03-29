@@ -1,4 +1,4 @@
-from ..strategies.base_strategy import OperationStrategy
+from ..stratagies.base_stratagy import OperationStrategy
 
 class Square(OperationStrategy):
     def execute(self, *operands):
