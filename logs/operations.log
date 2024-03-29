@@ -1,0 +1,5 @@
+2024-03-29 01:48:58,198 - root - INFO - Logging setup complete.
+2024-03-29 01:48:58,199 - App.utils.plugin_loader - INFO - Loaded plugin: Log
+2024-03-29 01:48:58,199 - App.utils.plugin_loader - INFO - Loaded plugin: Square
+2024-03-29 01:48:58,199 - App.utils.plugin_loader - INFO - Loaded plugin: Power
+2024-03-29 01:49:14,522 - App - INFO - Calculator app terminated.
