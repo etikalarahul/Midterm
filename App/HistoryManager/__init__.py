@@ -14,5 +14,4 @@ class HistoryManager:
         else:
             for record in self.records:
                 print(record)
-
               
