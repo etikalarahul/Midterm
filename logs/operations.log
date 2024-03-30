@@ -78,3 +78,8 @@
 2024-03-29 02:55:14,310 - CalculatorApp - INFO - Performed execute: (8.0, 4.0) = 2.0
 2024-03-29 02:55:14,310 - CalculatorApp - INFO - Performed execute: (8.0, 4.0) = 2.0
 2024-03-29 02:55:32,757 - App - INFO - Calculator app terminated.
+2024-03-29 19:57:26,683 - root - INFO - Logging setup complete.
+2024-03-29 19:57:26,686 - App.utils.plugin_loader - INFO - Loaded plugin: Log
+2024-03-29 19:57:26,686 - App.utils.plugin_loader - INFO - Loaded plugin: Square
+2024-03-29 19:57:26,687 - App.utils.plugin_loader - INFO - Loaded plugin: Power
+2024-03-29 19:57:43,473 - App - INFO - Calculator app terminated.
