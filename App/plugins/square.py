@@ -1,6 +1,7 @@
 from App.utils.wrapper import wrapper
 from ..stratagies.base_stratagy import OperationStrategy
 
+
 class Square(OperationStrategy):
     @wrapper
     def execute(self, *operands):
